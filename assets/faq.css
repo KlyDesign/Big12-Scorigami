@@ -1,18 +1,38 @@
 /* class's used */
-  /* faq */
+  /* faqcontainer */
   /* faqheader */
-  /* faq-p */
-  /* howto */
   /* howtoheader */
-  /* howto-p */
+  /* innerheader */
+  /* innerpar */
 
-  .body {
+* {
+    box-sizing: border-box;
+    font-family: arial;
+}
 
+body {
     padding: 0;
     margin: 0;
-    /* background-image: url('./images/big12logo.png'); */
+    display: flex;
+    background-image: url('./images/big12logo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+  
+}
 
-    
-  };
+.faqcontainer {
+
+  border-color: #BF5700;
+  background-color: #ffffff;
+  color: #333f48;
+  border-radius: 5px;
+  padding: 10px;
 
  
+}
+
