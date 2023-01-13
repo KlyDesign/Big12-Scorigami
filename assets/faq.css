@@ -1,16 +1,19 @@
 /* class's used */
-  /* faqcontainer */
+  
   /* faqheader */
   /* howtoheader */
   /* innerheader */
   /* innerpar */
 
 * {
+
     box-sizing: border-box;
     font-family: arial;
+    
 }
 
 body {
+
     padding: 0;
     margin: 0;
     display: flex;
@@ -27,8 +30,6 @@ body {
 
 .faqcontainer {
 
-  display: flex;
-  flex-wrap: wrap;
   border-style: solid;
   border-color: #333f48;
   background-color: #ffffff;
@@ -38,7 +39,5 @@ body {
   padding: 50px;
   margin: 25px;
 
-
- 
 }
 
