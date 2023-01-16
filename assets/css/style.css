@@ -3,8 +3,14 @@ table {
 }
 
 table, th, td {
+
   border: 1px solid #333f48;
   border-collapse: collapse;
   color: #BF5700;
 
 }
+
+/* .tbl {
+  max-height: 65%;
+  max-width: 65%;
+}; */
