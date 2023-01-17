@@ -24,5 +24,8 @@ table, th, td {
 
 }
 
-
+.black {
+  background-color: black;
+  color: black;
+}
 
