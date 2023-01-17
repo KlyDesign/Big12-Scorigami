@@ -8,8 +8,8 @@
 
 main {
   
-  max-height: 700px;
-  max-width: 800px;
+  max-height: 500px;
+  width: 85%;
   overflow: scroll;
   margin: 25px;
   
@@ -18,9 +18,27 @@ main {
 
 table, th, td {
   
-  border: 1px solid #333f48;
+  border: 1px black;
   border-collapse: collapse;
   color: #BF5700;
 
+}
+
+table {
+
+  width: 100%;
+}
+
+tr, th, td {
+
+  height: 1px;
+  padding: .5px;
+  
+
+}
+
+.black {
+  background-color: black;
+  color: black;
 }
 
