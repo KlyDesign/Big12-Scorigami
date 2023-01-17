@@ -4,7 +4,7 @@ var requestOptions = {
   redirect: 'follow'
 };
 for(date= 1999 ; date < 2023 ; date++){
-fetch("http://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates="+date, requestOptions)
+fetch("https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates="+date, requestOptions)
   .then(response => response.json())
   .then(function(data) {
   //take json data and use length of events so number of games
