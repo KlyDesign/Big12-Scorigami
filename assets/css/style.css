@@ -6,17 +6,19 @@
 }
 
 
-
-.tbl {
-
-  margin: ;
-
-
+main {
+  
+  max-height: 700px;
+  max-width: 800px;
+  overflow: scroll;
+  margin: 25px;
+  
 }
 
-th, td {
 
-  border: 0.5px solid #333f48;
+table, th, td {
+  
+  border: 1px solid #333f48;
   border-collapse: collapse;
   color: #BF5700;
 
