@@ -6,6 +6,7 @@
 }
 
 
+<<<<<<< Updated upstream
 main {
   
   max-height: 500px;
@@ -19,6 +20,21 @@ main {
 table, th, td {
   
   border: 1px black;
+=======
+
+main {
+
+  max-height: 700px;
+  max-width: 800px;
+  overflow: scroll;
+  margin: 25px;
+
+}
+
+table, th, td {
+
+  border: 1px solid #333f48;
+>>>>>>> Stashed changes
   border-collapse: collapse;
   color: #BF5700;
 
