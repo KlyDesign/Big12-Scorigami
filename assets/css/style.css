@@ -24,6 +24,12 @@ table, th, td {
 
 }
 
+
+
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
 table {
 
   width: 100%;
@@ -41,4 +47,5 @@ tr, th, td {
   background-color: black;
   color: black;
 }
+
 
