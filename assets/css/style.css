@@ -8,8 +8,8 @@
 
 main {
   
-  max-height: 700px;
-  max-width: 800px;
+  max-height: 500px;
+  width: 85%;
   overflow: scroll;
   margin: 25px;
   
