@@ -24,3 +24,7 @@ table, th, td {
 
 }
 
+
+.icon-block .material-icons {
+	font-size: inherit;
+}
