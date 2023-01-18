@@ -6,7 +6,6 @@
 }
 
 
-<<<<<<< Updated upstream
 main {
   
   max-height: 500px;
@@ -20,40 +19,20 @@ main {
 table, th, td {
   
   border: 1px black;
-=======
-
-main {
-
-  max-height: 700px;
-  max-width: 800px;
-  overflow: scroll;
-  margin: 25px;
-
-}
-
-table, th, td {
-
-  border: 1px solid #333f48;
->>>>>>> Stashed changes
   border-collapse: collapse;
   color: #BF5700;
 
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
->>>>>>> 9e56568a106cc276d39826a674ff9fdd51d4dcf5
+
+
 
 .icon-block .material-icons {
 	font-size: inherit;
 }
-<<<<<<< HEAD
-=======
-=======
 
->>>>>>> 9e56568a106cc276d39826a674ff9fdd51d4dcf5
+
 table {
 
   width: 100%;
@@ -71,9 +50,3 @@ tr, th, td {
   background-color: black;
   color: black;
 }
-
-<<<<<<< HEAD
->>>>>>> 3653b558bcacd4b53c9e90fbdc14590dc9f3f747
-=======
-
->>>>>>> 9e56568a106cc276d39826a674ff9fdd51d4dcf5
