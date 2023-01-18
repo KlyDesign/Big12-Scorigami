@@ -27,7 +27,7 @@ Scorigami is the art of achieving a final score in an NFL game that has never ha
 * <a href="https://www.w3schools.com/git/git_branch.asp?remote=github">w3Schools</a>
 * <a href="https://www.youtube.com/watch?v=9l5C8cGMueY">'Every NFL Score Ever | Chart Party' by Jon Bois</a>
 * <a href="https://gomakethings.com/waiting-for-multiple-all-api-responses-to-complete-with-the-vanilla-js-promise.all-method/">Go Make Things.com promise.all fetch help</a>
-
+* <a href="https://nflscorigami.com/">Original NFL Scorigami</a>
 # Authors
 * Kyle Hipple (link to GitHub)
 * Joel John (link to GitHub)
